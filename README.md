@@ -4,4 +4,4 @@ link:
 
 
 
-![](./assets-readme/principal com card.PNG)
+![Exemplo do projeto](Lista-de-Tarefas/assets-readme/)
